@@ -1,1 +1,26 @@
-Zet hier de arduino code
+#define LED 8  // The pin the LED is connected to
+#define reelSwitch 7
+int switchState;
+
+void setup() {
+  pinMode(LED, OUTPUT) ; // Declare the LED as an output
+  pinMode (reelSwitch, INPUT);
+}
+
+void loop() {
+  digitalWrite(LED, HIGH); // Turn the LED on
+  delay(1000);
+  digitalWrite(LED, LOW);
+  delay(1000);
+
+  switchState = digitalRead(reelSwitch); // read the value of digital interface 2 and assign it to switchState
+  
+  if (switchState == LOW) // when the magnetic sensor detect a signal, LED is flashing
+  {
+    digitalWrite(LED, HIGH);
+  }
+  else 
+  {
+    digitalWrite(LED, LOW);
+}
+}
