@@ -38,10 +38,9 @@ Het verhaal gaat over ADHD en de hypersensiviteit die erbij komt kijken.
 
 Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
 
-schakeaar 
-gordijnen op een kier
+Bij deze opdraht was het voor de toeschouwer al duidelijk dat er 'iets' moest gebeuren en dat zijdus 'iets' moeten doen, vooralleer er iets zou gebeuren. Dat speelde natuurlijk in mijn voordeel. 
 
+Door de gordijnen op reeds op een kier te zetten, zodat de toeschouwer reeds zag dat er vannalles speelde achter het gordijn, hoopt ik hem te prikkels om het gordijn te openen. De ledjes van de afleidingen (achter het gordijn) gaan pas aan wanneer je het gordijn genoeg opendoet. 
+Ik hoopte dus dat waneer ze het gordijn verder opendoen, dat ze opmerken dat er ledjes zijn en zich afvragen hoe deze aan te krijgen. En hierdoor bijvoorbeeld uittesten wat er alleemaal moet gebeuren om de ledjes op te lichten. 
 
-
-
-
+Idealieter wou ik een schakelaar bij de bureaulamp voorzien, die zichtbaar zou zijn ook wanneer het gordijn gesloten is. Ik denk dat de toeschouwer automatisch de neiging heeft om de schakelaar aan of uit te zetten. Als ze dit zouden doen waneer de grodijnen gesloten zijn, zou er enkel een ledje in de bureaulamp gaan branden. Er vanuit gaande dat er meer interactie aan het paneel is, hoop ik dat ze nadien zouden kijken naar wat er achter de gordijnen schuil zit. 
